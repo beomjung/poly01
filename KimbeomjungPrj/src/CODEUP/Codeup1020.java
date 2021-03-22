@@ -13,7 +13,7 @@ public class Codeup1020 {
 		
 		String A = arr[0];
 		String b = arr[1];
-		
+		// ¼öÁ¤    
 		System.out.println(A+b);
 	}
 
