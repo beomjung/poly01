@@ -9,6 +9,8 @@ public class Page119 {
 
 		boo2 = (10==20);
 		System.out.printf("%s \n", boo2);
+	
+		
 	}
 
 }
