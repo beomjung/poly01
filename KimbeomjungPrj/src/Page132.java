@@ -22,7 +22,6 @@ public class Page132 {
 		System.out.println(b + "%" + c + " = " + a);
 	
 		
-		
 	}
 
 }
