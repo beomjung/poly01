@@ -10,6 +10,7 @@ public class Page168 {
 		}System.out.println("100보다 작습니다22222");
 			
 		System.out.println("난 무조건 실행된다");
+	
 	}
 	
 }
