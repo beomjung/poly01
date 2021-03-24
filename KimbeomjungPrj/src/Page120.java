@@ -14,6 +14,7 @@ public class Page120 {
 	int num1 = Integer.parseInt(str2); // 숫자로 변수 변환
 	int num2 = Integer.parseInt(str3);
 	System.out.println("더하기 결과 : " + (num1 + num2));
+	
 	}
 
 }
