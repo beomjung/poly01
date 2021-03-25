@@ -13,6 +13,7 @@ public class Codeup1024 {
 			System.out.println("'"+word[i]+"'" );
 		}
 		
+	
 
 	}
 
