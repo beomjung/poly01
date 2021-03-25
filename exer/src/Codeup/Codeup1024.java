@@ -11,6 +11,7 @@ public class Codeup1024 {
 		char [] word = a.toCharArray();
 		for(int i=0; i<word.length; i++) {
 			System.out.println("'"+word[i]+"'" );
+	
 		}
 		
 
